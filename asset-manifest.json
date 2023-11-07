@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.837c704e.css",
+    "main.js": "/portfolio/static/js/main.407994fb.js",
+    "static/media/programmingLanguages.png": "/portfolio/static/media/programmingLanguages.afaf46f682c7d966b909.png",
+    "static/media/otherTech.png": "/portfolio/static/media/otherTech.937cc14f9f9843c76932.png",
+    "static/media/webDevelopment.png": "/portfolio/static/media/webDevelopment.451b1c269475daf38d00.png",
+    "static/media/introImage.png": "/portfolio/static/media/introImage.731bdb56dbcd00f7ef9a.png",
+    "static/media/Wolfram.png": "/portfolio/static/media/Wolfram.8663df47c8d556a39e62.png",
+    "static/media/Metadome.png": "/portfolio/static/media/Metadome.46c748b6685802fb5a34.png",
+    "static/media/burgerMenu.jpg": "/portfolio/static/media/burgerMenu.db79f150bd7eb847e2a1.jpg",
+    "static/media/pratibha.jpeg": "/portfolio/static/media/pratibha.175637c8fc71f3a03254.jpeg",
+    "static/media/linkedin_logo.png": "/portfolio/static/media/linkedin_logo.e264dd089fcff413a4b8.png",
+    "static/media/hireMe.png": "/portfolio/static/media/hireMe.0446bb10f6a170e96f74.png",
+    "index.html": "/portfolio/index.html",
+    "main.837c704e.css.map": "/portfolio/static/css/main.837c704e.css.map",
+    "main.407994fb.js.map": "/portfolio/static/js/main.407994fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.837c704e.css",
+    "static/js/main.407994fb.js"
+  ]
+}
