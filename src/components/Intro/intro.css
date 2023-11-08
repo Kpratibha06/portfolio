@@ -89,5 +89,6 @@
     }
     .introPara{
         width: 15vw;
+        height: max-content;
     }
 }
