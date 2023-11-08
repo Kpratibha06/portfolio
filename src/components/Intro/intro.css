@@ -37,11 +37,13 @@
     color: rgb(37, 204, 223);
 }
 
+
 .introPara {
     font-size: medium;
     font-weight: 300;
     letter-spacing: 1px;
     width: 40vw;
+    height: auto;
     text-align: justify;
 }
 
@@ -71,10 +73,20 @@
     .hello {
         font-size: 4.5vw;
     }
+    .introPara{
+        width: 30vw;
+    }
+    .introContent >span{
+        font-size: medium;
+    }
+    
 }
 
 @media screen and (max-width:480px){
     .bg {
         right: -20vw;
+    }
+    .introPara{
+        width: 15vw;
     }
 }

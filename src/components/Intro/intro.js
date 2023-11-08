@@ -14,15 +14,8 @@ function Intro() {
           <br /> Frontend Engineer
         </span>
         <p className="introPara">
-          As a Frontend Developer, my primary responsibility involves crafting
-          and maintaining interactive user interfaces using React and JavaScript
-          within a collaborative team environment. I contribute to the
-          development of web applications, implementing new features, optimizing
-          performance, and ensuring an intuitive user experience. Daily tasks
-          encompass utilizing React and JavaScript to enhance UI, collaborating
-          with team members to maintain and improve existing features, and
-          employing tools like Node.js, Enzyme, and Jest for effective testing
-          and codebase robustness.
+          
+I am enthusiastic Frontend Engineer with a passion for crafting user-centric web apps. With strong people skills for seamless collaboration and committed to continuous learning and delivering impactful solutions .
         </p>
 
         <Link>
