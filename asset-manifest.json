@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.837c704e.css",
-    "main.js": "/portfolio/static/js/main.407994fb.js",
+    "main.css": "/portfolio/static/css/main.2c291263.css",
+    "main.js": "/portfolio/static/js/main.4ece604d.js",
     "static/media/programmingLanguages.png": "/portfolio/static/media/programmingLanguages.afaf46f682c7d966b909.png",
     "static/media/otherTech.png": "/portfolio/static/media/otherTech.937cc14f9f9843c76932.png",
     "static/media/webDevelopment.png": "/portfolio/static/media/webDevelopment.451b1c269475daf38d00.png",
@@ -13,11 +13,11 @@
     "static/media/linkedin_logo.png": "/portfolio/static/media/linkedin_logo.e264dd089fcff413a4b8.png",
     "static/media/hireMe.png": "/portfolio/static/media/hireMe.0446bb10f6a170e96f74.png",
     "index.html": "/portfolio/index.html",
-    "main.837c704e.css.map": "/portfolio/static/css/main.837c704e.css.map",
-    "main.407994fb.js.map": "/portfolio/static/js/main.407994fb.js.map"
+    "main.2c291263.css.map": "/portfolio/static/css/main.2c291263.css.map",
+    "main.4ece604d.js.map": "/portfolio/static/js/main.4ece604d.js.map"
   },
   "entrypoints": [
-    "static/css/main.837c704e.css",
-    "static/js/main.407994fb.js"
+    "static/css/main.2c291263.css",
+    "static/js/main.4ece604d.js"
   ]
 }
