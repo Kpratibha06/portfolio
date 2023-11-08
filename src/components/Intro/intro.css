@@ -75,6 +75,7 @@
     }
     .introPara{
         width: 30vw;
+        height: max-content;
     }
     .introContent >span{
         font-size: medium;
